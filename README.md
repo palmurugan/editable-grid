@@ -37,7 +37,7 @@ class App extends React.Component {
 
   state = {
     lineItems: [
-      { firstName: 'Pal', lastName: 'Murugan', age: 0, gender: 'M' },
+      { firstName: '', lastName: '', age: 0, gender: '' },
     ]
   }
 
