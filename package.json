@@ -1,6 +1,6 @@
 {
-  "name": "editable-grid",
-  "version": "1.0.0",
+  "name": "loki-editable-grid",
+  "version": "1.0.1",
   "description": "Editable Grid with dynamic components",
   "author": "Palmurugan C",
   "license": "MIT",

@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save editable-grid
+npm install --save loki-editable-grid
 ```
 
 ## Usage
