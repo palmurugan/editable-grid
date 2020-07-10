@@ -15,8 +15,8 @@ npm install --save loki-editable-grid
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'editable-grid'
-import 'editable-grid/dist/index.css'
+import MyComponent from 'loki-editable-grid'
+import 'loki-editable-grid/dist/index.css'
 
 class Example extends Component {
   render() {
@@ -24,6 +24,9 @@ class Example extends Component {
   }
 }
 ```
+## Author
+
+Palmurugan C
 
 ## License
 
